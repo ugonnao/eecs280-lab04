@@ -1,2 +1,2 @@
 # eecs280-lab04
-lab for eecs280
+Our group members are ugonnao, russjosh, keyicw, akareddy
